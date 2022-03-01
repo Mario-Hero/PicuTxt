@@ -4,6 +4,11 @@
 
 A Python script which can combine an image with a string so that the image can be browsed as usual, but the text is written to the end of the file which can be read by this script.
 
+## 免责声明 Disclaimer
+
+本项目仅作技术学习之用，不鼓励、不支持也不赞成任何互联网违法违规行为，任何不当使用的行为概与本项目无关！！！
+This project is only used for technical learning, and we do not encourage, support or approve any Internet violations. Any improper use has nothing to do with this project!!!
+
 ## 依赖 Dependency
 
 Python 3
@@ -25,6 +30,7 @@ Python 3
 **Combine:**
 Download the project, select the picture and the txt file together, and drag them into PicuTxt.py, a new picture will be saved to the directory of the picture.
 Or just drag a picture to PicuTxt.py, enter the text and press enter to combine the text and picture together.
+
 **Read:**
 Drag the picture into PicuTxt.py to output text.
 
